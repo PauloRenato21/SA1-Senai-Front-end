@@ -1,6 +1,6 @@
-#SA - Situação de Aprendizagem - Parte 01
+# SA - Situação de Aprendizagem - Parte 01
 
-###Peças Automotivas###
+### Peças Automotivas ###
 
 Criar uma página para uma indústria de peças automotivas.
 Nesta página deverão estar as características de:
