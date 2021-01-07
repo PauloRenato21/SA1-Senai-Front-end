@@ -4,8 +4,6 @@
 
 <p>Criar uma página para uma indústria de peças automotivas.</p>
 <p>Nesta página deverão estar as características de:</p>
-<ul>
-  <li>3 peças</li>
-  <li>informações básicas sobre a empresa</li>
-  <li>logomarcas</li>
-<ul>
+- [x] 3 peças
+- [x] informações básicas sobre a empresa
+- [x] logomarcas
