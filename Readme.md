@@ -7,3 +7,12 @@ Nesta página deverão estar as características de:
 - [x] 3 peças
 - [x] informações básicas sobre a empresa
 - [x] logomarcas
+
+---
+#### tabela
+
+Numero | Nome | Nota
+--- | --- | ---
+1 | Paulo | 12
+2 | Fernando | 31
+3 | Maria | 10
